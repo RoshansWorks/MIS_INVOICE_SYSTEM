@@ -146,9 +146,6 @@ npm run dev
      /* /index.html 200
      ```
 
-## 📜 License
-This project is licensed under the MIT License.
-
 ---
 ### 📞 Contact
 For any issues or improvements, feel free to open an **issue** or submit a **pull request**. 🚀
