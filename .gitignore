@@ -1,0 +1,35 @@
+.env
+MisInvoice/.env
+# Ignore the target/ directory (Maven build output)
+target/
+
+# Ignore IntelliJ IDEA and VS Code settings
+.idea/
+*.iml
+.vscode/
+
+# Ignore log files and temporary files
+logs/
+*.log
+*.tmp
+
+# Ignore system files (Windows, macOS, Linux)
+.DS_Store
+Thumbs.db
+*.swp
+
+# Ignore compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore Maven wrapper logs and cache
+.mvn/wrapper/maven-wrapper.jar
+.mvn/repository/
+
+# Ignore Docker-related files
+docker-compose.override.yml
+
+# Ignore node_modules if using a frontend
+node_modules/
